@@ -1,6 +1,4 @@
-Absolutely, here's the markdown version that should display nicely on GitHub:
 
-```markdown
 # Securitic.ai API Documentation
 
 Welcome to the Securitic.ai API documentation repository!
@@ -70,6 +68,3 @@ For detailed information about each API endpoint and parameter, refer to the com
 If you encounter any issues, have questions, or want to provide feedback, please [open an issue](link_to_issues) on this repository. Our team is here to assist you and improve the Securitic.ai platform based on your feedback.
 
 Happy coding with Securitic.ai!
-```
-
-You can copy and paste this markdown directly into your GitHub repository's README.md file. It should render nicely with proper formatting and syntax highlighting on GitHub.
